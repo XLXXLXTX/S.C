@@ -1,0 +1,7 @@
+# ignore all zips
+*.zip
+
+# ignore all files related to C development except *.c, *.h, and Makefile
+# so ignore compiled files
+*.o
+*.out
